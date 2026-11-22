@@ -4,7 +4,6 @@ A KiCad PCB Editor plugin for renaming footprint references (RefDes) with sequen
 
 ## Demo Video
 
-## Demo Video
 [Watch the demo on YouTube](https://youtu.be/hvOIygx5834)
 
 ## Features
